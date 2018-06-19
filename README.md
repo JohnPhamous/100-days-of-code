@@ -8,6 +8,7 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 2. Make a new branch with your name
 3. Make updates to the log in that branch
 4. Make a pull request, wait for someone else to merge it
+5. Review someone else's pull request, leave some feedback, merge if it's good
 
 ## Participants
 
@@ -46,7 +47,32 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 	  * Neural networks and deep learning
 	  * Make a BattleSnake bot and train it on a neural network
 * Jerry Tan
+ * Goals:
+    * Continune to learn more web development 
+      * Experiment with different frameworks(Vue, Angular, Flask)
+      * Start making personal website
+      * Learn how to make web apps
+    * Learn Data Science/ Machine Learning
+      * Tensorflow
+      * Deep Learning
+    * Technical Interview prep(CodeFights, LeetCode, CodePath etc)
+
+
+
 * Jacob Poole
+* James Luo
+ * Goals:
+    * Learn Unreal
+      * Do the udemy online course
+      * Make a small project on my own
+      * export it to either mobile or Steam
+      
+    * Make a App that can get 50 downloads
+      * Create something unique
+      * Use more Apple API
+    * Create new Tools with FireBase
+      * use thier online computing platform
+
 
 ## Challenge
 
@@ -72,8 +98,8 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 
 **Today's Progress**: 
 
-| Notes | John | Wendy | Cameron | Jerry | Jacob |
-|:---|:---|:---|:---|:---|:---|
+| Notes | John | Wendy | Cameron | Jerry | Jacob |James
+|:---|:---|:---|:---|:---|:---| :---| 
 | What did you do today? | Lorem ipsum dolor sit amet | Curabitur maximus lacus et | honcus pellentesque | Quisque semper fringilla enim | Proin luctus, elit mollis  |
 | Comments | Proin luctus, elit mollis | Lorem ipsum dolor sit amet | Curabitur maximus lacus et | Curabitur maximus lacus et | Curabitur maximus lacus et |
 | Link | x | x | x | x | x |
@@ -82,10 +108,11 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 
 ### Day 1: June 18, 2018
 
-| Notes | John | Wendy | Cameron | Jerry | Jacob |
+| Notes | John | Wendy | Cameron | Jerry | Jacob | James
 |:---|:---|:---|:---|:---|:---|
 | What did you do today? | x | x | Today, I watched videos and read about web styling and grid layouts. I also practiced writing my own CSS in a local file.| x | x |
 | Comments | x | x | Styling isn't hard, I just want to figure out how I want to style my webpage and begin coding it. | x | x |
 | Link | x | x | x | x | x |
+
 
 ---
