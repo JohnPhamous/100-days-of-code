@@ -72,7 +72,12 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
       * Use more Apple API
     * Create new Tools with FireBase
       * use thier online computing platform
-
+* Harley Siezar
+   * Goals:
+     * get familiar with angular 
+     * and React 
+     * Understand, from a high level,neural networks
+     * Learn how to use the spotify api
 
 ## Challenge
 
@@ -108,9 +113,9 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 
 ### Day 1: June 18, 2018
 
-| Notes | John | Wendy | Cameron | Jerry | Jacob | James
-|:---|:---|:---|:---|:---|:---| :---|
-| What did you do today? | x | x | x | x | x | x |
+| Notes | John | Wendy | Cameron | Jerry | Jacob | James | Harley
+|:---|:---|:---|:---|:---|:---|:---| :---|
+| What did you do today? | x | x | x | x | x | x | I read all of the documentation of how to use the spotify api|
 | Comments | x | x | x | x | x | x |
 | Link | x | x | x | x | x | x |
 
