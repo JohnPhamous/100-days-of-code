@@ -97,8 +97,8 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 
 | Notes | John | Wendy | Cameron | Jerry | Jacob |
 |:---|:---|:---|:---|:---|:---|
-| What did you do today? | x | x | x | x | x |
-| Comments | x | x | x | x | x |
-| Link | x | x | x | x | x |
+| What did you do today? | x | x | x | worked on personal webpage | x |
+| Comments | x | x | x | added rounded image, resume and email link | x |
+| Link | x | x | x | [Personal Website](https://github.com/bball24/bball24.github.io) | x |
 
 ---
