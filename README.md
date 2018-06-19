@@ -84,8 +84,8 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 
 | Notes | John | Wendy | Cameron | Jerry | Jacob |
 |:---|:---|:---|:---|:---|:---|
-| What did you do today? | x | x | x | x | x |
-| Comments | x | x | x | x | x |
+| What did you do today? | x | x | Today, I watched videos and read about web styling and grid layouts. I also practiced writing my own CSS in a local file.| x | x |
+| Comments | x | x | Styling isn't hard, I just want to figure out how I want to style my webpage and begin coding it. | x | x |
 | Link | x | x | x | x | x |
 
 ---
