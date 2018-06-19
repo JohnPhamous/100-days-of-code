@@ -128,8 +128,8 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 
 | Notes | John | Wendy | Cameron | Jerry | Jacob | James
 |:---|:---|:---|:---|:---|:---| :---|
-| What did you do today? | x | My first day of work! Yayayay! I worked on learning how to write markup for .XML files. | x | x | x | reorganize soccer pong 's code |
-| Comments | x | Soup after work is the best. | x | x | x | put the code in an object orintation design for better reuse and to make it eaiser to setup multiplayer |
+| What did you do today? | Created an API endpoint for news | My first day of work! Yayayay! I worked on learning how to write markup for .XML files. | x | x | x | reorganize soccer pong 's code |
+| Comments | Need to create a web interface so people can edit with an editor rather than writing JSON | Soup after work is the best. | x | x | x | put the code in an object orintation design for better reuse and to make it eaiser to setup multiplayer |
 | Link | x | https://bit.ly/2qrUk7w | x | x | x | [Soccer Pong](https://github.com/jluo117/SoccerPong) |
 
 
@@ -141,5 +141,4 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 | What did you do today? | x | x | x | x | x | x |
 | Comments | x | x | x | x | x | x |
 | Link | x | x | x | x | x | x|
-
 ---
